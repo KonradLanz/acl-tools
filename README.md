@@ -15,7 +15,7 @@ Der ursprüngliche Fall: `bootstrap-foundation` war auf dem SMB-Mount nicht schr
 
 Solche Fälle sind Kandidaten für automatische Erkennung und Normalisierung.
 
-## Funktionsblö·Į·Ď
+## Funktionsblöcke
 
 1. **Scanner** für `getfacl`-Ausgaben
 2. **Vergleich** normaler und abweichender ACL-Muster
@@ -50,7 +50,7 @@ Solche Fälle sind Kandidaten für automatische Erkennung und Normalisierung.
 - [ ] Erste Scanner-CLI definieren
 - [ ] Prompt-Format für local-ai-stack festlegen
 
-## Abhä·īgkeiten
+## Abhängkeiten
 
 - POSIX ACL (getfacl) auf QNAP
 - Optional: local-ai-stack für LLM-Unter erstellung
